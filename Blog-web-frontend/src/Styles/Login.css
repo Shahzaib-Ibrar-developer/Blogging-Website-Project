@@ -1,0 +1,13 @@
+
+.login-container {
+    height: 100vh; /* Set height to 100% of the viewport height */
+  }
+  
+  .login-form {
+    width: 300px; /* Set a fixed width for the form */
+    padding: 20px;
+    border: 1px solid #d9d9d9; /* Add a border for a modern look */
+    border-radius: 8px; /* Optional: Add border-radius for rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle box shadow */
+  }
+  
